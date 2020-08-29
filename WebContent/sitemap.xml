@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="SimpleSitemapGenerator/1.2.0" -->
+<!-- sitemap-generator-url="http://www.antczak.org" sitemap-generator-version="1.2.0" -->
+<!-- generated-on="2018-10-23T18:49:29+00:00" -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>http://nandamalve.com</loc>
+	</url>
+	<url>
+		<loc>http://nandamalve.com/index.html</loc>
+	</url>
+	<url>
+		<loc>http://nandamalve.com/skills.html</loc>
+	</url>
+	<url>
+		<loc>http://nandamalve.com/projects.html</loc>
+	</url>
+	<url>
+		<loc>http://nandamalve.com/recommendations.html</loc>
+	</url>
+	<url>
+		<loc>http://nandamalve.com/contact-me.html</loc>
+	</url>
+	<url>
+		<loc>http://nandamalve.com/documents/Nanda_Malve_Java_J2EE_8_years.pdf</loc>
+	</url>
+	<url>
+		<loc>http://nandamalve.com/</loc>
+	</url>
+</urlset>
