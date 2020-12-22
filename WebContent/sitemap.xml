@@ -6,27 +6,27 @@
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
-		<loc>http://nandamalve.com</loc>
+		<loc>https://nandamalve.com</loc>
 	</url>
 	<url>
-		<loc>http://nandamalve.com/index.html</loc>
+		<loc>https://nandamalve.com/index.html</loc>
 	</url>
 	<url>
-		<loc>http://nandamalve.com/skills.html</loc>
+		<loc>https://nandamalve.com/skills.html</loc>
 	</url>
 	<url>
-		<loc>http://nandamalve.com/projects.html</loc>
+		<loc>https://nandamalve.com/projects.html</loc>
 	</url>
 	<url>
-		<loc>http://nandamalve.com/recommendations.html</loc>
+		<loc>https://nandamalve.com/recommendations.html</loc>
 	</url>
 	<url>
-		<loc>http://nandamalve.com/contact-me.html</loc>
+		<loc>https://nandamalve.com/contact-me.html</loc>
 	</url>
 	<url>
-		<loc>http://nandamalve.com/documents/Nanda_Malve_Java_J2EE_8_years.pdf</loc>
+		<loc>https://nandamalve.com/documents/Nanda_Malve_Java_J2EE_8_years.pdf</loc>
 	</url>
 	<url>
-		<loc>http://nandamalve.com/</loc>
+		<loc>https://nandamalve.com/</loc>
 	</url>
 </urlset>
